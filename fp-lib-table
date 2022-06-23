@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name Connector_PCISlot)(type KiCad)(uri /data/jonathan/Projekte/Elektrotechnik/PCI_to_pinhead)(options "")(descr ""))
+  (lib (name "Connector_PCISlot")(type "KiCad")(uri "/data2/jonathan/Projekte/Elektrotechnik/PCI_to_pinhead")(options "")(descr ""))
 )
